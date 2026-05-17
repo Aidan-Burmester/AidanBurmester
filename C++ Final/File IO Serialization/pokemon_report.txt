@@ -1,0 +1,14 @@
+Pokemon Command Report
+
+Caught Pikachu at level 5.
+Caught Charmander at level 5.
+Pikachu trained really hard for like 12 seconds.
+Battled rival and somehow won.
+Team healed. We hope to see you again!.
+Pokemon on team: 2
+Battles won: 1
+Caught Snorlax at level 30.
+Snorlax trained really hard for like 12 seconds.
+Battled rival and somehow won.
+Pokemon on team: 3
+Battles won: 2

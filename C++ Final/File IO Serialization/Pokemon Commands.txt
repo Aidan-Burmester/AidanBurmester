@@ -1,0 +1,11 @@
+1 Pikachu 5
+1 Charmander 5
+2 Pikachu
+3
+5
+4
+1 Snorlax 30
+2 Snorlax
+3
+4
+-1

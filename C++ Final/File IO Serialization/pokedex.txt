@@ -1,0 +1,5 @@
+POKEDEX FILE
+Pikachu Electric 25
+Charmander Fire 4
+Bulbasaur Grass 1
+Squirtle Water 7
